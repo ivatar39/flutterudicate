@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "812040569681",
+    "firebase_url": "https://udicateflutter.firebaseio.com",
+    "project_id": "udicateflutter",
+    "storage_bucket": "udicateflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812040569681:android:bd57325f65baaae4",
+        "android_client_info": {
+          "package_name": "com.ivlup.flutterudicate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812040569681-3mev2v2ve823o15n0ge3031i7ktr6qm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdofUMcOFCzoP0KiM09b1pw0XcWi1DDII"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
